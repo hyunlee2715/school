@@ -1,0 +1,21 @@
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+Hello
+Phrase #  1 is 'Hello'
+Type a few phrases separated by comma(q - to quit):
+12345678
+Phrase #  1 is '12345678'
+Type a few phrases separated by comma(q - to quit):
+ho,,,,,,,ho
+Phrase #  1 is 'ho'
+Type a few phrases separated by comma(q - to quit):
+Phrase #  1 is 'ho'
+Type a few phrases separated by comma(q - to quit):
+hohohohohoho
+Phrase #  1 is 'hohohoho'
+Type a few phrases separated by comma(q - to quit):
+Phrase #  1 is 'oho'
+Type a few phrases separated by comma(q - to quit):
+H       I
+Phrase #  1 is 'H       I'
+Type a few phrases separated by comma(q - to quit):
