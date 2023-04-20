@@ -1,0 +1,35 @@
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot(q - to quit):
+This is test. This is first. this is second. third
+Senetnce 1 is 'This is test'
+Senetnce 2 is ' This is first'
+Senetnce 3 is ' this is second'
+Senetnce 4 is ' third
+'
+Type a few sentences separated by dot(q - to quit):
+what about put many dots . 1.. 2... 3....4.....
+Senetnce 1 is 'what about put many dots '
+Senetnce 2 is ' 1'
+Senetnce 3 is ' 2'
+Senetnce 4 is ' 3'
+Senetnce 5 is '4'
+Senetnce 6 is '
+'
+Type a few sentences separated by dot(q - to quit):
+so dot is devide sentences what if I just put dots without any words .......................................
+Senetnce 1 is 'so dot is devide sentences what if I just put dots without any words '
+Senetnce 2 is '
+'
+Type a few sentences separated by dot(q - to quit):
+. . . . . . . . . .
+Senetnce 1 is ' '
+Senetnce 2 is ' '
+Senetnce 3 is ' '
+Senetnce 4 is ' '
+Senetnce 5 is ' '
+Senetnce 6 is ' '
+Senetnce 7 is ' '
+Senetnce 8 is ' '
+Senetnce 9 is ' '
+Senetnce 10 is '
+'
